@@ -1,0 +1,5 @@
+<script lang="ts">
+    import Other from "./other.svelte";
+</script>
+
+<Other binary />

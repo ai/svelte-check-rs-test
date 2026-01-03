@@ -1,0 +1,9 @@
+{
+    "type": "module",
+    "devDependencies": {
+        "@typescript/native-preview": "7.0.0-dev.20260102.1",
+        "svelte": "^5.46.1",
+        "svelte-check": "^4.3.5",
+        "typescript": "^5.9.3"
+    }
+}
