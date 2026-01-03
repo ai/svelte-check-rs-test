@@ -2,4 +2,4 @@
     import Other from "./other.svelte";
 </script>
 
-<Other binary />
+<Other wrong />
