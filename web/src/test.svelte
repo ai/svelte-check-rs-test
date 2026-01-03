@@ -2,4 +2,6 @@
     import Other from "./other.svelte";
 </script>
 
-<Other binary />
+<div class="post">
+    <Other html="HTML to escape" />
+</div>

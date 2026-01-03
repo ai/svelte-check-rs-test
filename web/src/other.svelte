@@ -1,5 +1,5 @@
 <script lang="ts">
-    let { binary }: { binary: boolean } = $props();
+    let { html }: { html: string } = $props();
 </script>
 
-{binary ? "1" : "0"}
+{html.replaceAll("<", "")}
